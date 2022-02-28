@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarques upon the new project of association: In a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92405</idno>
+            <idno type="STC">Wing R949B</idno>
+            <idno type="STC">ESTC R182616</idno>
+            <idno type="EEBO-CITATION">45097921</idno>
+            <idno type="OCLC">ocm 45097921</idno>
+            <idno type="VID">171497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarques upon the new project of association: In a letter to a friend.</title>
+                  <author>Paterson, William, 1658-1719.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by David Lindsay.,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Imprimatur William Paterson.</note>
+                  <note>Caption title.</note>
+                  <note>Remarks on a proposed association for the suppression of popish plots.</note>
+                  <note>"Cum privilegio"--Colophon.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171497:1" rendition="simple:additions"/>
+            <head>REMARQUES Upon the NEW PROJECT <hi>OF</hi> ASSOCIATION:</head>
+            <head type="sub">In a Letter to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU would have me give you the ſence of the Town, together with my own Pri<g ref="char:EOLhyphen"/>vate Thoughts upon the Subject of your Laſt. The <hi>Former</hi> would be <hi>Tedious</hi> and <hi>Extravagant,</hi> in a Caſe where People, either through <hi>Paſſion,</hi> or <hi>Intereſt,</hi> are ſo Extremely divided. And the <hi>Latter</hi> (with Submiſſion) would be as <hi>
+                  <g ref="char:V">Ʋ</g>nſafe:</hi> But I ſhall, however, Gratifie your Curioſity in as full, and as Particular an Anſwer to the Sum of your Demands, as the Quality of the Matter in queſtion, and the Compaſs of a Letter will conveniently bear.</p>
+            <p>You are ſo far in the Right; as that the Paper you ſpeak of, is ſaid, by ſome, to be the <hi>project</hi> of a <hi>Bill</hi> for an <hi>Aſſociation;</hi> And grounded upon the <hi>Precedent</hi> of an <hi>Aſſoci<g ref="char:EOLhyphen"/>ation</hi> 27. <hi>Eliz.</hi> It is ſaid further, that it is no more then what was mov'd in the laſt <hi>Weſtminſter Parliament;</hi> and only <hi>a ſhort draught,</hi> or Scheme <hi>of an</hi> Aſſociation, <hi>for a General Defence againſt a Popiſh King.</hi> But one the other hand, it is cry'd out againſt as the <hi>Inſtrument</hi> of a <hi>Treaſonous Conſpiracy</hi> againſt his <hi>Majeſty,</hi> and the <hi>Government,</hi> under the Countenance of a <hi>Religious Aſſociation.</hi>
+            </p>
+            <p>Thus far, Sir, you are rightly inform'd, as to the Buſineſs of Ordinary <hi>Conjecture,</hi> and <hi>Diſcourſe;</hi> but your Intelligence afterwards runs a little too large: for the paper was
+<pb n="1" facs="tcp:171497:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171497:3"/>barely <hi>found</hi> in my Lords Cloſet; And any man may have Papers perhaps in his poſſeſ<g ref="char:EOLhyphen"/>ſion that he does not approve of. How far the Members of that Parliament (which is the next point) will find themſelves concern'd in Honour to ſearch farther into this Affair, I am not able to Divine.</p>
+            <p>It will be both for your Eaſe and mine, to conſult, and compare the Pieces them<g ref="char:EOLhyphen"/>ſelves, and to ſee how far this <hi>late Draught of Aſſociation</hi> agrees with the <hi>Ends,</hi> and <hi>In<g ref="char:EOLhyphen"/>tent</hi> of the <hi>Former:</hi> And after that, to Examine it's <hi>Conſiſtency</hi> with it <hi>ſelfe:</hi> To which purpoſe I ſhall (in their due place) lay <hi>both the Aſſociations</hi> before you, with ſuch Notes upon, and concerning them, as may ſerve in ſome meaſure to Explain the Matter in hand: And therein I ſhall ſpeak to the ſeveral Points of your Letter, as they fall in my way. The Words of the <hi>Former</hi> are as follows.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:171497:4"/>
+               <head>The Paper which was Seized in the E. of <hi>Shaftsbury's</hi> Cloſet by <hi>Francis Gwin</hi> Eſquire, One of the Clerks of His <hi>Majeſties</hi> Privy Council, and Read <hi>No<g ref="char:EOLhyphen"/>vember 24. 1681.</hi> at the <hi>Old-Baily,</hi> before His <hi>Majeſties</hi> Commiſſioners of <hi>Oyer</hi> and <hi>Terminer.</hi>
+               </head>
+               <q>1. WE the Knights, &amp;c. Finding to the griefe of our Hearts, the Po<g ref="char:EOLhyphen"/>piſh Prieſts &amp; Jeſuits with the Papiſts, and their <hi>Adherents</hi> and <hi>Abetters</hi> have for ſe<g ref="char:EOLhyphen"/>veral years laſt paſt purſued a moſt per<g ref="char:EOLhyphen"/>nicious and helliſh Plot, to root out the true Proteſtant Religion as a peſtilent Hereſie, to take away the Life of our Gra<g ref="char:EOLhyphen"/>cious King, to ſubvert our Laws and Liber<g ref="char:EOLhyphen"/>ties, &amp;c. to ſet up Arbitrary Power and Popery.</q>
+               <p>NOTE, That the Stile of the <hi>Firſt</hi> Clauſe, in theſe Words, [<hi>We the</hi> Knights, &amp;c.] Imports an Act of the <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> Excluſive of the <hi>Lords;</hi> and <hi>Rege In<g ref="char:EOLhyphen"/>conſulto:</hi> The <hi>Dread</hi> and <hi>Danger</hi> of the <hi>Popiſh Plot,</hi> is made the <hi>Inducement</hi> to it: The <hi>Papiſts Adherents</hi> &amp; <hi>Abettors,</hi> ranged with the <hi>Papiſts themſelves;</hi> and joyned in the ſame Deſign of Murdering the the King, &amp;c.</p>
+               <q>2. And it being Notorious that they have been highly encouraged by the Counte<g ref="char:EOLhyphen"/>nance and Protection given and procured for them by J. D. of Y. and by their ex<g ref="char:EOLhyphen"/>pectations of his ſucceeding to the Crown, and that through crafty Popiſh Councils his Deſigns have ſo far prevailed that he hath created many and great Dependents upon him by his beſtowing Offices and Prefer<g ref="char:EOLhyphen"/>ments both in Church and State.</q>
+               <p>In the <hi>Second</hi> Clauſe, his R. H. falls un<g ref="char:EOLhyphen"/>der the ſame Accuſation; and the Govern<g ref="char:EOLhyphen"/>ment, Effectually, put into his hands, to<g ref="char:EOLhyphen"/>ward the Gaining of his Ends. Now the meaning of <hi>Adherents,</hi> and <hi>Abetters,</hi> is Expounded by the Author of <hi>Smith's Quae<g ref="char:EOLhyphen"/>ries</hi> upon the <hi>Duke's Bill,</hi> where he ſays that [<hi>the Pleaders for a</hi> Popiſh Succeſſor, <hi>ought to be Eſteem'd no other then</hi> Betrayers <hi>of their</hi> King <hi>and</hi> Country, Renegado's <hi>from their</hi> Religion, (<hi>if ever</hi> Proteſtants <hi>at all</hi>) <hi>and the worſt of</hi> Papiſts; <hi>and ſo to be dealt with all in City and Country.</hi>] Here's an <hi>Anathema</hi> pronounc'd already againſt all Men under that Qualification; and the <hi>In<g ref="char:EOLhyphen"/>validating of the Kings Witneſſes</hi> is One Condition of the Sentence; which does moſt Expreſly conclude all the <hi>Preſent Defamers</hi> of the Kings <hi>Witneſſes</hi> under the ſame <hi>Condemnation.</hi>
+               </p>
+               <p>This way of Expoſing the Kings Loyal Subjects of the <hi>Engliſh</hi> Communion, under the Notion of <hi>Papiſts,</hi> (or in truth, beyond them,) and that, not only in <hi>Libellous Papers,</hi> but in ſome Councils alſo, is too Notorious to need any Inſtances to confirm it: And what's the drift of theſe practices, but under a General Scandal, to <hi>Stigmatize</hi> that Party that will not Cloſe with the <hi>Faction,</hi> and to ſet them up as a Mark to the Fury of of the <hi>Rabble?</hi> And this is only a <hi>Preparatory</hi> toward a greater Work that is to follow; and whoſoever is not wilfully Blind, cannot but ſee the Deſign to be all
+<pb facs="tcp:171497:5"/>of a Thrid.</p>
+               <p>From this Averſion toward a ſort of people (in general) repreſented under ſuch a Cha<g ref="char:EOLhyphen"/>racter; the next Step is the <hi>Naming</hi> of <hi>particular perſons,</hi> the Diſcriminating of parties; the Computing of <hi>Numbers,</hi> and <hi>Intreſts,</hi> and ſo from <hi>Liſting,</hi> to Paſs on into <hi>Aſſocia<g ref="char:EOLhyphen"/>tions,</hi> and <hi>Levies.</hi> Let not this be taken for a Trivial Speculation upon the Common Me<g ref="char:EOLhyphen"/>thods, and Preliminaries to <hi>Rebellion:</hi> for I have heard, (and I do as firmly believe it, as a Man can believe any thing that he never ſaw) that there is Extant a Calculation upon all the Counties of <hi>England</hi> and <hi>Wales, Alphabetically Digeſted;</hi> Dividing the Men of In<g ref="char:EOLhyphen"/>tereſt, and Conſideration, in each Reſpective County into <hi>Two Columns,</hi> One againſt another; The <hi>One</hi> under the Title of <hi>Worthy Men;</hi> and the <hi>Other,</hi> of <hi>Men Worthy</hi> (to be Hang'd, that is) Ranging the <hi>Country Party</hi> (as they call it) under the Former, and the <hi>Court-Party</hi> under the Other: Which appears, (as I am aſſur'd) by the Tranſ<g ref="char:EOLhyphen"/>porting of Names from One to the Other, as any Man is found to Change his Side and O<g ref="char:EOLhyphen"/>pinion. By the Benefit of this Roll, 'tis not above a Week, or Ten Days Work to take a <hi>Muſter</hi> of the <hi>Nation;</hi> To Communicate Orders; To know whom to <hi>Impeach,</hi> and
+<pb n="3" facs="tcp:171497:6"/>whom to <hi>Trust;</hi> And they that have <hi>Money</hi> ſhall never want <hi>Evidence.</hi> There is a Won<g ref="char:EOLunhyphen"/>derful Correſpondence betwixt the Tendency of <hi>this List,</hi> &amp; the <hi>paper</hi> of <hi>Aſſociation;</hi> be<g ref="char:EOLhyphen"/>twixt the Dictates of the <hi>Factious pamphlets,</hi> and the matter of <hi>Fact,</hi> in <hi>Evidence,</hi> and it were little leſs then a <hi>Miracle,</hi> if all this ſhould come by chance.</p>
+               <q>3. It appearing alſo to us, That by his Influence <hi>Mercenary Forces</hi> have been le<g ref="char:EOLhyphen"/>vied and kept on Foot for his ſecret Deſigns <hi>contrary to our Laws;</hi> the Officers thereof having been named and appointed by him, to the apparent hazard of His Majeſties Perſon, our Religion and Government, if the danger had not been timely foreſeen by ſeveral Parliaments, and part of thoſe For<g ref="char:EOLhyphen"/>ces with great difficulty, cauſed by them to be Disbanded at the Kingdoms great Expen<g ref="char:EOLhyphen"/>ce: And it being Evident, that notwithſtand<g ref="char:EOLhyphen"/>ing all the continual endeavours of the Parli<g ref="char:EOLhyphen"/>ament to deliver his Majeſty from the Coun<g ref="char:EOLhyphen"/>cils and out of the power of the ſaid D. yet his Intereſt in the Miniſtry of State and others have been ſo prevalent, That <hi>Parliaments</hi> have been <hi>unreaſonably</hi> Prorogued, and Diſ<g ref="char:EOLhyphen"/>ſolved when they have been in the hot purſuit of Popiſh Conſpiracies, and ill Miniſters of State their Aſſiſtants.</q>
+               <q>4. And that the ſaid D. in order to reduce all into his own Power hath procured the Garriſons, the Army and Ammunition, and all the power of the Seas and Souldiery, and Lands belonging to theſe Three Kingdoms to be put into the hands of <hi>his Party</hi> and <hi>their Adherents,</hi> even in oppoſition to the Advice and Order of the laſt Par<g ref="char:EOLhyphen"/>liament.</q>
+               <p>In the <hi>Third</hi> and <hi>Fourth</hi> Clauſes, the <hi>Kings Guards</hi> are pronounc'd to be <hi>Con<g ref="char:EOLhyphen"/>trary to Law;</hi> The <hi>Officers</hi> choſen by thc Duke, <hi>Subſervient</hi> to his <hi>Deſigns,</hi> and <hi>Dangerous</hi> to his Majeſties <hi>Perſon,</hi> &amp;c. The <hi>King himſelf</hi> Charg'd with fol<g ref="char:EOLhyphen"/>lowing <hi>Popiſh Councels; <g ref="char:V">Ʋ</g>nreaſonable Pro<g ref="char:EOLunhyphen"/>rogations,</hi> and <hi>Diſſolutions,</hi> in favour of <hi>Popiſh Conſpirators,</hi> and <hi>Ill Miniſters of State,</hi> their <hi>Aſſiſtants;</hi> The <hi>Garriſons, Army,</hi> and <hi>Ammunition</hi> in the hands of the <hi>Dukes Party,</hi> and <hi>their Adherents.</hi>
+               </p>
+               <p>It is not my Work to amplifie upon theſe <hi>Falſhoods,</hi> and <hi>Slanders,</hi> in this place; ſo that I ſhall proceed.</p>
+               <q>5. And as we conſidering with Heavy Hearts how greatly the Strength; Reputa<g ref="char:EOLhyphen"/>tion and Treaſure of the Kingdom both at Sea and Land is Waſted and Conſumed, and loſt by the intricate expenſive manage<g ref="char:EOLhyphen"/>ment of theſe Wicked deſtructive Deſigns; and finding the ſame Councils after exe<g ref="char:EOLhyphen"/>mplary Juſtice upon ſome of the Conſpirators, to be ſtill purſued with the utmoſt de<g ref="char:EOLhyphen"/>viliſh malice, and deſire of Revenge; Whereby His Majeſty is in continual hazard of being Murdered to make way for the ſaid D<hi>'s</hi> Advancement to the Crown, and the whole Kingdom in ſuch caſe is deſtitute of all ſecurity of their Religion, Laws, Eſtates and Liberty, ſad experience in the Caſe, Queen <hi>Mary</hi> having proved the wiſeſt Laws
+<pb facs="tcp:171497:7"/>to be of little Force to keep out Popery and Tyranny under a Popiſh Prince.</q>
+               <p>The <hi>Fifth</hi> Clauſe Deplores the ſad E<g ref="char:EOLhyphen"/>ſtate of the <hi>King</hi> and <hi>Nation,</hi> by reaſon of the ſame Councel. And after this <hi>Remon<g ref="char:EOLhyphen"/>ſtrance</hi> upon the whole matter, (We the Knights, &amp;c.) come to a point, in that which follows: That is to ſay,</p>
+               <p>
+                  <hi>6ly.</hi> The <hi>King</hi> will not agree to <hi>Barr</hi> and <hi>Exclude</hi> the <hi>Duke</hi> in a <hi>Parliamentary way;</hi> and therefore we'l enter into a <hi>League</hi> and Invite the Kings Subjects to <hi>Joyn</hi> with us in a <hi>Vow</hi> of <hi>Mutual Defence</hi> and <hi>Asſiſt<g ref="char:EOLhyphen"/>ance</hi> (in an <hi>
+                     <g ref="char:V">Ʋ</g>n-Parliamentary way</hi>) to the Intent of a Declaration in the Form Enſu<g ref="char:EOLhyphen"/>ing</p>
+               <q>6. We have therefore endeavoured in a <hi>Parliamentary way</hi> by a Bilifor the purpoſe to Barr and Exclude the ſaid Duke from the Succeſſion to the Crown, and to Baniſh him for ever out of theſe Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland.</hi> But the firſt Means of the King and Kingdoms Safety being utterly rejected, and we left almoſt in Deſpair of obtaining any real and effectual ſecurity, and knowing our ſelves to be intruſted to Adviſe and Act for the preſervation of his Ma<g ref="char:EOLhyphen"/>jeſty and the Kingdom, and being perſuaded in our Conſciences that the Dangers aforeſaid are ſo eminent and preſſing, that there ought to be no delay of the beſt means that are in our power to ſecure the Kingdom againſt them. We have thought fit to propoſe to all true Proteſtants an Union amongſt themſelves by ſolemn and ſacred promiſe of <hi>Mutual
+<pb n="4" facs="tcp:171497:8"/>Defence</hi> and <hi>Asſiſtance</hi> in the preſervation of the true Proteſtant Religion, His Majeſties Perſon and Royal State and our Laws, Liberties and Properties, and we hold it our bounden Duty to joyn ourſelves for the ſame intent in a Declaration of our United Af<g ref="char:EOLhyphen"/>fections and Reſolutions in the Form inſuing.</q>
+               <p>Now put all together, and the ſum of it, in ſhort, is this. There's a <hi>Plot</hi> upon the <hi>Kings Life,</hi> &amp;c. The <hi>Duke</hi> is <hi>in't;</hi> And preferrs <hi>Miniſters of State, Officers Civil</hi> and <hi>Military,</hi> for his purpoſe; <hi>Prorogues</hi> and <hi>Diſſolves Parliaments, Saves the</hi> Popiſh <hi>Lords;</hi> makes the <hi>King</hi> a <hi>Cypher;</hi> And therefore ſince he will not agree to <hi>Exclude</hi> and <hi>Baniſh his Brother</hi> by Act of <hi>Parliament,</hi> [We the Knights, &amp;c.] <hi>will joyn with all</hi> True Proteſtants <hi>in a</hi> Sacred promiſe <hi>to deſtroy</hi> him, <hi>and his</hi> Adherents, <hi>without excep<g ref="char:EOLhyphen"/>tion to His Maieſty himſelf,</hi> who for Refuſing to <hi>Exclude</hi> his <hi>Royal Brother,</hi> is declar<g ref="char:EOLhyphen"/>ed to be <hi>one of the</hi> Party. To what Ends, and purpoſes, will be ſeen in the <hi>Aſſociation it ſelf.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="association">
+                           <head>THE ASSOCIATION.</head>
+                           <p>I <hi>A. B.</hi> Do in the preſence of God ſolemnly, Promiſe, Vow, and proteſt to main<g ref="char:EOLhyphen"/>tain and defend to the utmoſt of my Power, with my Perſon and eſtate, the <hi>true Proteſtant</hi> Religion againſt Popery and all popiſh Superſtition, Idolatry, or <hi>Innovation,</hi> and all thoſe who do or ſhall endeavour to ſpread or advance it within this Kingdom.</p>
+                           <p>I will alſo as far as in me lies maintain and defend His Majeſties Royal Perſon and E<g ref="char:EOLhyphen"/>ſtate; as alſo the power and priviledge of Parliaments, the lawful Rights and Liberties of the Subject, againſt all Incroachments and Uſurpation of Arbitrary power whatſoever, and endeavour intirely to Disband all ſuch <hi>Mercenary Forces</hi> as, we have reaſon to be<g ref="char:EOLhyphen"/>lieve, were raiſed to advance it, and are ſtill kept up in and about the City of <hi>London,</hi> to the great Amazement and Terror of all the good people of the Land.</p>
+                           <p>Moreover <hi>I. D.</hi> of <hi>Y.</hi> Having publickly profeſſed and owned the popiſh Religion, and notoriouſly given Life and Birth to the Damnable and Helliſh plotes of the papiſts againſt His Majeſties perſon, the proteſtant Religion, and the Government of this King<g ref="char:EOLhyphen"/>dom; I will never conſent that the ſaid <hi>J.</hi> D. of <hi>Y.</hi> or any other, who is or hath been a papiſt, or <hi>any ways adher'd</hi> to the papiſts in their wicked Deſigns be admitted to the Succeſſion of the Crown of <hi>England,</hi> But by all lawful means and by force of Arms, if need ſo require, according to my Abilities, will oppoſe him, and endeavour to <hi>Subdue, Expel</hi> and <hi>Destroy</hi> him if he come into <hi>England,</hi> or the Dominions thereof; And ſeek by force to ſet up his pretended Title, and all <hi>ſuch as ſhall Adhere unto him,</hi> or raiſe any War, Tumult, or Sedition for him, or by his Command, as publique Enemies of our Laws, Religion and Countrey.</p>
+                           <p>To this end we and every one of us whoſe hands are here under-written, do moſt wil<g ref="char:EOLhyphen"/>lingly bind our ſelves and every one of us unto the other joyntly and ſeverally, in the Bond of one firm and loyal Society or Aſſociation, and do promiſe and vow before God, That
+<pb facs="tcp:171497:9"/>with our joynt and particular Forces we will <hi>oppoſe</hi> and <hi>purſue</hi> unto <hi>Deſtruction</hi> all ſuch as upon <hi>any Title whatſoever</hi> ſhall oppoſe the Juſt and Righteous ends of this Aſſociation, and Maintain, Protect &amp; Defend all ſuch as ſhall enter into it in the juſt performance of the true intent and meaning of it. And leſt this <hi>Just and pious Work</hi> ſhould be any ways ob<g ref="char:EOLhyphen"/>ſtructed or hindred for want of diſcipline and Conduct, or any evil minded perſons under pretence of raiſing Forces for the ſervice of this Aſſociation, ſhould attempt or commit diſ<g ref="char:EOLhyphen"/>orders, we will follow ſuch Orders as we ſhall from time to time receive from <hi>this preſent Parliament,</hi> whilſt it ſhall be <hi>ſitting,</hi> or the <hi>Major part</hi> of the Members of both Houſes ſubſcribing this Aſſociation: When it ſhall be <hi>prorogued</hi> or <hi>Diſſolved,</hi> and obey ſuch Of<g ref="char:EOLhyphen"/>ficers as ſhall by them be ſet over us in the ſeveral Countreys, Cities, and Burroughs until the next meeting of this or another parliament, and will then ſhew the ſame Obedi<g ref="char:EOLhyphen"/>ence and Submiſſion unto it, and thoſe who ſhall be of it.</p>
+                           <p>Neither will we for any reſpect of <hi>perſons</hi> or <hi>Cauſes,</hi> or for Fear, or Reward, ſeparate our ſelves from this Aſſociation, or fail in proſecution thereof during our Lives upon pain of being by the reſt of us proſecuted, and ſuppreſſed as perjur'd perſons, and publick E<g ref="char:EOLhyphen"/>nemies to God, the King, and our Native Countrey.</p>
+                           <pb n="5" facs="tcp:171497:10"/>
+                           <p>To which pains and puniſhments we do voluntarily ſubmit our ſelves, and every one of us without benefit of any Colour or pretence to excuſe us.</p>
+                           <closer>
+                              <signed>In Witneſs of all which promſies to be Inviolably kept, we do to this preſent Writing put our Hands and Seals, and ſhall be most ready to accept and admit any others hereafter into this Society and Aſſociation.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>THis form of <hi>Aſſociation</hi> is only the Covenant Reviv'd, with the ſame Licence, Limita<g ref="char:EOLhyphen"/>tions, Reſerves, and Equivocations; And to the very ſame End and purpoſe: And all Schiſmatiques, and Heretiques whatſoever, Taken, and Invited into the Combi<g ref="char:EOLhyphen"/>nation, under the Colour of preſerving the True proteſtant Religion, (the papiſts only excepted.) The Guards to be Disbanded, as Illegal; His <hi>R. H.</hi> to be Expell'd or Depos'd; and all his Adherents (even the King himſelf) to be deſtroy'd by Force of Arms, That is to ſay, The King is to be allow'd no other Miniſters, Officers, but what the <hi>Aſſociates</hi> ſhal vouchſafe to affoord him, and he himſelf likewiſe upon his Good Behaviour, under the pain of Immediate Inſurrection, Tumult, and Revolt.</p>
+               <p>Being engaged by this Vow, promiſe, proteſtation, (or what elſe you pleaſe) to a downright Rebellion, (unleſs the King will deliver up his Crown without Striking a Stroke for't) the Oath is carry'd on, even to the Manner, and Method, by which the Nation is to be Govern'd, after ſuch Violence Acted upon the perſon, and Authority of the King. And this Confederacy is Extended even to the Devolving of the <hi>Soveraign Power</hi> upon the Houſe of Commons, during Sitting the Parliament; and upon the Major part of the Members of both Houſes, Subſcribing this <hi>Aſſociation,</hi> after the <hi>Prorogation</hi> or <hi>Diſſolution</hi> thereof: And they never to Recede, upon any Conſideration whatſoever. So that here's a King Depos'd, a Monarchy Deſtroy'd; a <hi>Common-wealth Erected;</hi> a <hi>Free People Enſlav'd;</hi> And all in a Trice, by the help of this <hi>Pious <g ref="char:V">Ʋ</g>nion</hi> if ever it ſhould come to take Effect: And in Concluſion the <hi>Supreme Power</hi> Veſted in the Two Houſes to <hi>Prepetuity.</hi> This is the Faireſt Conſtruction can be made on't; the paper calls it the preſent Parliament, in a Complement, 'tis only the Houſe of Commons, in Effect.</p>
+               <p>Now look back upon the whole, and take notice how Frivolous all thoſe <hi>Colours,</hi> and <hi>pretenſions</hi> are, that have been produced in Favour or Excuſe of this Paper [We the Kinights] do Declare, and <hi>Swear,</hi> that what we connot <hi>Compaſs</hi> in a Parliamentary way, we will endeavour to bring about by force of Arms. Here's the very Conſtitu<g ref="char:EOLhyphen"/>tion of Parliaments overthrown at a Daſh: And purſuant to this Reſolution, ſo many Members that were Choſen, and Entruſted to ſerve their Countrys, and (as much as in them lay) to uphold and maintain the Laws of the Land, and the Liberties of the peo<g ref="char:EOLhyphen"/>ple, have now propounded to ſet up themſelves by this project, without either King, or Houſe of Lords; as a Standing Committe, and to Exerciſe an Arbitary power over their Fellow-Subjects, to the Subverſion of the Common Rights. and in Defiance of the Fun<g ref="char:EOLhyphen"/>damental priviledges of King, parliaments, and people. So much for the pretended
+<pb facs="tcp:171497:11"/>project of a BILL.</p>
+               <p>Now to this Scheme of an <hi>Aſſociation</hi> for Defence againſt a popiſh King. The paper begins with Exclamations againſt a popiſh <hi>plot,</hi> and concludes in an <hi>Oath</hi> of <hi>Conſpiracy</hi> againſt a proteſtant prince. It begins with a pretended Tenderneſs of Religion, and ends in a <hi>peremptory Sentence</hi> and Determination of State. For fear of a popiſh King, here's a Certain proviſion that we ſhall have no King at all; and under pretext of Oppoſing an Arbitrary power in the Crown, here's an Expedient offer'd (as for the Avoidance of it) by Swearing Allegiance to the Unlimited will and pleaſure of a Committes of Disbanded Members of our own Fellow Subjects.</p>
+               <p>But this is no more, they ſay, then was propounded, and Debated in the Houſe of Commons. There was an Addreſs of the Commons, ('tis true) bearing date <hi>May</hi> 10. 1679. [That His Majeſty would be graciouſly pleaſed to give Order for raiſing the <hi>Militia</hi> and keeping of it up for ſome certain time] and the Lords were afterwards re<g ref="char:EOLhyphen"/>minded of it; To which (as I remember) His Majeſties Anſwer was, That He would not part with it, ſo much as for an horu; But here was no <hi>Aſſociating</hi> to take poſſeſſion of it by Force, in caſe it ſhould be refuſed.</p>
+               <pb n="6" facs="tcp:171497:12"/>
+               <p>It is True likwiſe, that the Commons, <hi>December</hi> 15. 1680. paſſ'd a Vote that a Bill ſhould be brought in for an <hi>Aſſociation</hi> of all his Majeiſtes Proteſtant Subjects, &amp;c. And that upon the one and twentieth of the ſame Month, they preſented an <hi>Addreſs</hi> to the King, deſiring therein, that his Majeſty would be Graciouſly pleaſed to aſſent to an Act, whereby his Majeſties Proteſtant Subjects might be Enabled to <hi>Aſſociate</hi> them<g ref="char:EOLhyphen"/>ſelves for the Defence of His Perſon, &amp;c. Which very Word <hi>(Enabled)</hi> Imports a <hi>Con<g ref="char:EOLhyphen"/>ceſſion</hi> and <hi>Acknowledgment</hi> that without the Kings Paſſing ſuch a Bill, they had no Right to Authorize ſuch a Combination.</p>
+               <p>But that which has miſled people into a miſtake, ſo Derogatory to the Honour of the Houſe of <hi>Commons.</hi> I preſume may be this. There were ſeveral Queſtions put by the <hi>Foreman of the Jury;</hi> Firſt to Mr. <hi>Gwin;</hi> and afterwards to Mr. <hi>Secretary Jenkins,</hi> that carryed ſome ſort of Countenance, as if <hi>This Aſſociation</hi> had been <hi>Debated,</hi> and <hi>This very Paper, Read</hi> in the Houſe of <hi>Commons.</hi> 'Tis a ſhort Paſſage and I'le recite it, as you will find it in the <hi>Printed proceedings,</hi> Pag. 34.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="excerpt">
+                           <sp>
+                              <speaker>Foreman.</speaker>
+                              <p>Don't you know, Sir, there was a Diſcourſe in the <hi>Parliament</hi> of an <hi>Aſ<g ref="char:EOLhyphen"/>ſociation.</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>Mr. Gwin.</speaker>
+                              <p>Sir I was not of the laſt Parliament, I know nothing of it.</p>
+                           </sp>
+                           <sp>
+                              <speaker>Foreman.</speaker>
+                              <p>You have not heard then that there was ſuch a Thing in <hi>Parliament</hi> con<g ref="char:EOLhyphen"/>cerning an <hi>Aſsociation?</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>Mr Gwin.</speaker>
+                              <p>I have heard of an <hi>Aſſociation</hi> Talk'd of.</p>
+                           </sp>
+                           <sp>
+                              <speaker>Foreman. Mr. Secretary,</speaker>
+                              <p>I would ask you ſome Queſtions, If you did not know of a <hi>Debate</hi> in Parliament of an <hi>Aſſociation?</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>Mr. Secretary.</speaker>
+                              <p>I was not preſent at the Debate; but there was a Talk in Town of an <hi>Aſſociation.</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>Foreman.</speaker>
+                              <p>Did you not hear of it in <hi>Parliament?</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>Mr. Secretary.</speaker>
+                              <p>Indeed there was an anſwer to a Meſſage from the Houſe of Com<g ref="char:EOLhyphen"/>mons that had ſomething in it that did ſtrongly Imply an Aſſociation; but this particular Aſſociation I do not remember to have heard propos'd.</p>
+                           </sp>
+                           <sp>
+                              <speaker>Foreman.</speaker>
+                              <p>Don't you remember in the Houſe of Commons, Sir, it was read, upon Occaſion of that Bill?</p>
+                           </sp>
+                           <sp>
+                              <speaker>Mr. Secretary.</speaker>
+                              <p>I heard ſuch a thing ſpoken of; but at the Reading of it I was not pre<g ref="char:EOLhyphen"/>ſent, to the beſt of my rememberance.</p>
+                           </sp>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>I know nothing to the contrary, but that the forme of this Vow and proteſtation, (meaning the three firſt Clauſes of it) might posſibly be read in the Houſe; But to imagine, that the Honorable Houſe of Commons would ever have endur'd the ſtarting of a project to overturn the very Foundations of Government, were to do them the greateſt indignity in the world. The late Uſurpers themſelves were halfe way through the Rebellion, be<g ref="char:EOLhyphen"/>fore they arriv'd at that degree of Boldneſſe. If any man ſhould Interpret theſe <hi>Glancing
+<pb facs="tcp:171497:13"/>Interrogatories</hi> in ſuch manner as to take this project for an Act of the Houſe; The <hi>Jeſu<g ref="char:EOLhyphen"/>its</hi> themſelves could not have done the Popiſh plot a greater piece of ſervice, then the pro<g ref="char:EOLhyphen"/>moting of ſuch an Errour as might creat a Jelouſie of Treaſon within theſe Walls: But on the other hand there may be Scandals Taken as well as Given.</p>
+               <p>If it were not for Tiring of yow out, I could ſhew ye the Originals, both of this Draught and Deſign, and Trace the very footſteps of our <hi>Reforming Hero's,</hi> from His Majeſties moſt Dutiful and Loyal Subjects with their Outcrys of <hi>plots</hi> and <hi>popery,</hi> and Eyes and Hands lifted up unto the Lord in a Holy Covenant; to the ſevering of his Ma<g ref="char:EOLhyphen"/>jeſties Sacred Head from his Body, upon a ſcaffold; But it is too Copious a Theme, and there needs no more then Dipping any where in the Records of the Late Times to famiſh the parallel.</p>
+               <p>There remains yet another Abuſe to be clear'd, wherein they impoſe upon the people, that this Aſſociation is founded upon the ſame Grounds and Conſiderations with that of the 27th. of the <hi>Queen.</hi> You will better judge whether it be ſo or no, upon a view of the <hi>Instrument</hi> it ſelfe, and ſome few Remarques thereupon.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="association">
+                           <pb n="7" facs="tcp:171497:14"/>
+                           <head>The <hi>Inſtrument,</hi> or <hi>Writing</hi> of <hi>Aſſociation,</hi> that the <hi>Proteſtants</hi> of <hi>England</hi> enter'd into, <hi>27. Eliz.</hi>
+                           </head>
+                           <p>FOraſmuch as Almighty God hath Ordained Kings, Queens, and Princes, to have Dominion and Rule over all their Subjects, and to preſerve them in the Peſſeſſion and Obſervation of the true Chriſtian Religion, according to his holy Word and Command<g ref="char:EOLhyphen"/>ment: And in like ſort, that all Subjects ſhould Love, Fear, and Obey their Sove<g ref="char:EOLhyphen"/>raign Princes, being Kings or Queens, to the utmoſt of their power; at all times to with<g ref="char:EOLhyphen"/>ſtand, purſue, and ſuppreſs all manner of perſons that ſhall by any means intend and attempt any thing dangerous or hurtful to the Honour, States, or perſons of their Sove<g ref="char:EOLhyphen"/>raigns.</p>
+                           <p>Therefore we whoſe Names are or ſhall be ſubſcribed to this Writing, <hi>being Natural Born ſubjects of this Realm of England,</hi> and having ſo Gracious a Lady, our Soveraign <hi>Elizabeth,</hi> by the Ordinance of God, our moſt rightful Queen, Reigning over us theſe many Years with great Felicity, to our ineſtimable Comfort: And finding lately by divers Depoſitions, Confeſſions, and ſundry Advertiſements out of Forreign parts from credible perſons, well known to her Majeſties Council and to divers others; That for the furtherance and advancement of ſome pretended Title to the Crown, it hath been manifeſted that the Life of our Gracious Soveraign Lady Queen <hi>Elizabeth,</hi> hath been moſt dangerouſly expos'd to the peril of her Perſon; if Almighty God her perpetual Defender, of his Mercy had not revealed and withſtood the ſame. By whoſe Life, we and all other her Majeſties True and Loyal Subjects, do enjoy an ineſtimable benefit of peace in this Land; do for the Reaſons and Cauſes before alledged, not only acknow<g ref="char:EOLhyphen"/>ledge our ſelves moſt juſtly bound with our Lives and Goods for her defence, in her ſafety, to perſecute, ſuppreſs, and withſtand all ſuch Intenders and all other her Enemies, of what Nation, Condition, and Degree whatſoever they ſhall be, or by what Council or Title they ſhall pretend to be her Enemies, or to attempt any harm upon her Perſon; but do further think it our bounden Duties for the great benefit of peace, and Wealth, and Godly Government, we have more plentifully receaved theſe many Years, under her Majeſties Government, than any of our Forefathers have done in any longer time of any other Progenitors, Kings of this Realm.</p>
+                           <p>Do declare, and by this Writing make manifeſt. our bounden Duties to our ſaid Sove<g ref="char:EOLhyphen"/>raign Lady for her ſafety. And to that end, <hi>We and every of us, Firſt calling to Wit<g ref="char:EOLhyphen"/>neſs the Name of Almighty God, do Voluntarily and moſt Willingly bind our ſelves, every one of us to the other, joyntly and ſeverally in the Band of one Firm and Loyal Society. And do hereby Vow and promiſe by the</hi> Majeſty of Almighty God, <hi>That with our whole Powers, Bodies, Lives, and Goods, and with our Children and Servants, We, and every of us, will faithfully ſerve and humbly obey our ſaid Soveraign Lady Queen</hi> Eliza<g ref="char:EOLhyphen"/>beth,
+<pb facs="tcp:171497:15"/>
+                              <hi>against all States, Dignities, and Earthly powers whatſoever; and will as well with our joynt and particular Forces during our Lives withſtand, offend, and pur<g ref="char:EOLhyphen"/>ſue, as well by force of Arms, as by all other means of Revenge; all manner of perſons of what ſtate ſoever they ſhall be, and their Abetters, that ſhall attempt any Act, Council or conſent to any thing that ſhall tend to the harm of her Majeſties Royal perſon, and will never deſiſt from all manner of forcible purſuit againſt ſuch perſons, to the utter Extermination of them, their Councillors, Aiders, and Abetters.</hi>
+                           </p>
+                           <p>And if any ſuch wicked Attempt againſt her moſt Royal Perſon, ſhall be taken in hand and procured, whereby any that have, may, or ſhall pretend Title to come to this Crown, by the untimely death of her Majeſty ſo wickedly procured (which God for his Mercy ſake forbid) may be avenged; <hi>We do not only bind our ſelves both joyntly and ſeverally never to Allow, accept, or favour any ſuch pretended Succeſſor, by whom, or for whom any ſuch deteſtable Act ſhall be Attempted or Committed. as unworthy of all Government in any Chriſtian Realm or Civil State.</hi>
+                           </p>
+                           <pb n="8" facs="tcp:171497:16"/>
+                           <p>But do alſo further Vow and Proteſt as we are moſt bound, and that in the preſence of the Eternal and Everlaſting God, to proſecute ſuch perſon and perſons to Death with our joynt or particular Forces, and to ask the utmoſt Revenge upon them that by any means we or any of us can deviſe and do, or cauſe to be deviſed and done for their fitter Overthrow and Extirpation.</p>
+                           <p>And to the berter <hi>Corroboration</hi> of this our <hi>Loyal Band and Aſſociation,</hi> We do alſo Teſtifie by this Writting, that we do confirm the contents hereof by our Oaths cor<g ref="char:EOLhyphen"/>porally taken upon the Holy Evangeliſt, with this expreſs condition; that no one of us ſhall for any reſpect of perſons or cauſes, or for Fear or Reward, ſeparate our ſelves from this ASSOCIATION, or fail in the proſecution thereof, during our Lives, upon haſard of being by the reſt of us proſecuted, <hi>and ſuppreſt as perjur'd perſons, and publick Ene<g ref="char:EOLhyphen"/>mies to God, our Queen, and to our Native Country.</hi> To which puniſhment and pains we do voluntarily ſubmit our ſelves, and every of us, without benefit of any colour and pretence.</p>
+                           <closer>
+                              <signed>In Witneſs of all which Promiſes to be inviolably kept, we do to this Writing put our Hands and Seals; and ſhall be moſt ready to accept and admit any others hereafter, to this Society and Aſſociation.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>You may be pleaſed to Compare this Aſſociation with the other, which pretends (Ef<g ref="char:EOLhyphen"/>fectually) to write after this Coppy. You have in this, an Ample and Solemn Acknow<g ref="char:EOLhyphen"/>ledgement of Soveraign Power in the Queen, and Indiſpenſible Obedience in the Subject: but in the other not only a Diſclaimer of the Kings Authority, and the Subjects Duty, (unleſs his Majeſty will Comply with whatſoever his People ſhall Impoſe upon him) but a Total Abdication of his Imperial Power; And a Vow of Conſpiracy to Oppoſe him by Force; and ſet up an Inconſiderable part of the people, Maſters of the Government.</p>
+               <p>You have here ane Aſſociation to defend the Queen againſt any pretendent whatſoever upon a falſe Title. The other is a Conſpiracy for the Deſtruction, even of the preſent King, brcauſe he will not Conſent to the Diſpoſſeſſing his Brother of a Juſt and Legal Title, both before God and Man. This Engagement Extends only to a Remote Proſpect of Injury to the Crown, with a Reſolution to Employ Violence when the Occaſion requires it, and not before: But the other is a Confederacy to offer Violence to the Crown them<g ref="char:EOLhyphen"/>ſelves, and to Embroile the Nation forthwith in a Civil War, upon a pretended Fear of Danger at a Diſtance. This is a Combination againſt the Queens Enemies, with Her Royal Approbation, and conſent. The other is a Confederacy againſt the Kings Brother, and his Friend, and againſt his Majeſties Approbation and Conſent. The one (in ſhort) is for a Submiſſion to a Lawful Authority; The other for the Final and Irreparable Extirpation of it. To Conclude; whoever layes both Ends together of this Late Aſſoci<g ref="char:EOLhyphen"/>ation, will find that it begins in the Name of God, for the Preſervation of Religion, and Ends in the Divils Name with the Total Extinction of King and Government.</p>
+               <pb facs="tcp:171497:17" rendition="simple:additions"/>
+               <closer>
+                  <signed>
+                     <hi>Imprimatur</hi> WILLIAM PATERSON.</signed>
+                  <dateline>
+                     <date>December 20. 1681.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Edinburgh, <hi>Re-printed by</hi> David Lindſay. <hi>1681.</hi> Cum Privilegio</p>
+         </div>
+      </back>
+   </text>
+</TEI>
